@@ -1,0 +1,32 @@
+.top-icon {
+    margin-top: 64px;
+    width: 100px;
+    height: auto;
+}
+
+.aws-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    bottom: 10px;
+}
+
+.aws-item {
+    text-align: center;
+    color: var(--ion-color-primary);
+    font-weight: 600;
+    img{
+        margin: 0;
+    }
+    p{
+        margin-top: 5px;
+        font-size: 11px;
+    }
+}
+
+.aws-item img {
+    width: 100%;
+    height: auto;
+}

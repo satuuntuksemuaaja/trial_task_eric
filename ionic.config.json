@@ -1,0 +1,8 @@
+{
+  "name": "TrialTask",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a5f3f672"
+}

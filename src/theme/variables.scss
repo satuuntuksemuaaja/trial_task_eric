@@ -1,0 +1,20 @@
+// For information on how to create your own theme, please see:
+// http://ionicframework.com/docs/theming/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+:root {
+    --ion-font-family: 'Open Sans', sans-serif;
+    --ion-font-family-title : 'Amatic SC', sans-serif;
+    --ion-color-primary: #008080; /* New primary color */
+    --ion-color-secondary: #cee7e7; /* New secondary color */
+    --ion-color-tertiary: #ff33a1; /* New tertiary color */
+    --ion-color-success: #28a745; /* New success color */
+    --ion-color-warning: #ffc107; /* New warning color */
+    --ion-color-danger: #dc3545; /* New danger color */
+    --ion-color-light: #f8f9fa; /* New light color */
+    --ion-color-medium: #6c757d; /* New medium color */
+    --ion-color-dark: #343a40; /* New dark color */
+    --ion-background-color: #ffffff; /* New background color */
+    --ion-text-color: #212529; /* New text color */
+}
